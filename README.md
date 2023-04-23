@@ -13,6 +13,7 @@ As a student in information systems with a strong interest in data analysis, I h
          <img alt="os" title="Operating System" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
         
    </p>
+   
 ---
 
 ### 🧰 Languages and Tools
