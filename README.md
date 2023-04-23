@@ -13,7 +13,7 @@ As a student in information systems with a strong interest in data analysis, I h
          <img alt="os" title="Operating System" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
         
    </p>
-   
+
 ---
 
 ### 🧰 Languages and Tools
@@ -24,11 +24,12 @@ As a student in information systems with a strong interest in data analysis, I h
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br />
+
 #
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<!-- BEGIN YOUTUBE-CARDS --
 [![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
 [![Don't sleep on Nvidia.](https://ytcards.demolab.com/?id=dgmQ-IAANAc&title=Don%27t+sleep+on+Nvidia.&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Don't sleep on Nvidia.")](https://www.youtube.com/watch?v=dgmQ-IAANAc)
 [![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")](https://www.youtube.com/watch?v=jArtVVbYGKk)
