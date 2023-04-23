@@ -1,3 +1,3 @@
 # Daniel Johansson
 
-**"Data Analyst (Student/Analyst/Creator)**
+**"Data Analyst (Student/Analyst/Creator)"**
