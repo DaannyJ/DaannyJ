@@ -52,17 +52,12 @@ As a student in information systems with a strong interest in data analysis, I h
 
 <details>
  <summary><h3>👨‍💻 Daniels Coding Journey</h3></summary>
-In 2017, I caught the coding bug and started my journey with Python. It was an exciting time, and as I began to understand the language, I found myself drawn to the field of data analytics. From that point on, I dedicated myself to learning everything I could about the subject.
-
-As I explored the world of data analytics, I realized that there were many powerful tools available to help analyze and present data effectively. I delved into learning various tools like Power BI, Tableau, and Excel, and even further expanded my knowledge of data analysis with pandas in Python.
-
-With every new tool I learned, I became more fascinated with the data analytics field, and I began to explore its various applications. From marketing and finance to healthcare and logistics, I saw the power of data analysis in almost every industry.
+In 2017, I caught the coding bug and started my journey with Python. It was an exciting time, and as I began to understand the language, I found myself drawn to the field of data analytics. From that point on, I dedicated myself to learning everything I could about the subject. As I explored the world of data analytics, I realized that there were many powerful tools available to help analyze and present data effectively. I delved into learning various tools like Power BI, Tableau, and Excel, and even further expanded my knowledge of data analysis with pandas in Python. With every new tool I learned, I became more fascinated with the data analytics field, and I began to explore its various applications. From marketing and finance to healthcare and logistics, I saw the power of data analysis in almost every industry.
 
 My coding journey has been one of constant learning, discovery, and growth. I have developed a deep appreciation for the importance of data in business decision-making and have honed my skills in data visualization, data modeling, and statistical analysis.
-
 As I move forward in my career, I am excited to continue exploring new tools and technologies in the data analytics field. I am confident that my knowledge and expertise will make me an asset to any organization that values data-driven decision-making.
 
-If you're looking for a skilled and dedicated data analyst who is passionate about leveraging data to drive business success, I would love to connect with you..
+If you're looking for a skilled and dedicated data analyst who is passionate about leveraging data to drive business success, I would love to connect with you.
 
 [website]: coming soon
-[youtube]: https://youtube.com/UC5kqBq096AxrfZOCcEX9dtw
+[youtube]: https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw
