@@ -6,14 +6,11 @@ As a student in information systems with a strong interest in data analysis, I h
 
    <p align="left">
       <a href="https://www.linkedin.com/in/daniel-johansson-040a75185/">
-         <img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
+         <img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
-      <a href="https://github.com/DaannyJ?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/DaannyJ?tab=repositories&sort=stargazers">
-         <img alt="os" title="Operating System" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-"/></a>
+      <a href="https://www.linkedin.com/in/daniel-johansson-040a75185/">
+         <img alt="os" title="Operating System" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
         
    </p>
 ---
