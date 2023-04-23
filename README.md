@@ -5,10 +5,8 @@
 As a student in information systems with a strong interest in data analysis, I have acquired proficiency in SQL, Power BI, and Python. I have demonstrated my ability to manipulate, transform and visualize data to derive meaningful insights, creating reports and dashboards to support business decision-making. My educational background in system science has provided me with a solid foundation in understanding complex systems and how they can be optimized for maximum efficiency. I am passionate about using my skills to help organizations make data-driven decisions and drive business success.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
