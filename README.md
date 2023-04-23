@@ -8,7 +8,7 @@ As a student in information systems with a strong interest in data analysis, I h
       <a href="https://www.linkedin.com/in/daniel-johansson-040a75185/">
          <img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC5kqBq096AxrfZOCcEX9dtw?style=social"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
