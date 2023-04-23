@@ -1,5 +1,5 @@
 # 🏄‍♂️ Daniel Johansson
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Data Analyst (Student/Analyst/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+As a student in information systems with a strong interest in data analysis, I have acquired proficiency in SQL, Power BI, and Python. I have demonstrated my ability to manipulate, transform and visualize data to derive meaningful insights, creating reports and dashboards to support business decision-making. My educational background in system science has provided me with a solid foundation in understanding complex systems and how they can be optimized for maximum efficiency. I am passionate about using my skills to help organizations make data-driven decisions and drive business success.
