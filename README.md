@@ -6,7 +6,7 @@ As a student in information systems with a strong interest in data analysis, I h
 
    <p align="left">
       <a href="https://www.linkedin.com/in/daniel-johansson-040a75185/">
-         <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
