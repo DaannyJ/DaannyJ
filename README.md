@@ -7,7 +7,7 @@ As a student in information systems with a strong interest in data analysis, I h
    <p align="left">
       <a href="https://www.linkedin.com/in/daniel-johansson-040a75185/">
          <img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw">
+      <a href="https://www.youtube.com">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/daniel-johansson-040a75185/">
          <img alt="os" title="Operating System" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
@@ -38,7 +38,7 @@ As a student in information systems with a strong interest in data analysis, I h
 [![Why Linux is ACTUALLY GNU/Linux](https://ytcards.demolab.com/?id=GUsFrtllXs8&title=Why+Linux+is+ACTUALLY+GNU%2FLinux&lang=en&timestamp=1679227210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "Why Linux is ACTUALLY GNU/Linux")](https://www.youtube.com/watch?v=GUsFrtllXs8)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC5kqBq096AxrfZOCcEX9dtw)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]()
 
 #
 
